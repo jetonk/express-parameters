@@ -1,0 +1,34 @@
+{
+  "name": "express-parameters",
+  "version": "1.0.0",
+  "description": "Express Input Validation",
+  "main": "Input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetonk/express-parameters.git"
+  },
+  "keywords": [
+    "express",
+    "validator",
+    "express",
+    "input",
+    "validator",
+    "express",
+    "api",
+    "validator",
+    "express",
+    "parameters",
+    "validator",
+    "parameters",
+    "collect"
+  ],
+  "author": "Jeton Kadrija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetonk/express-parameters/issues"
+  },
+  "homepage": "https://github.com/jetonk/express-parameters#readme"
+}
