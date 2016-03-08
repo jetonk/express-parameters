@@ -1,10 +1,10 @@
 ## Usage
 ```javascript
-var Input = require('input');
+var Input = require('express-parameters');
 
 app.post('/', function (req, res) {
   var required = ['username', 'password'];
-  Input.request(null, req.params, required);
+  Input.request(req.body, null, required);
   if (Input.passed()) {
         var params = Input.get();
         loginService(params.username, params.password);

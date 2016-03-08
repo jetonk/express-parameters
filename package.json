@@ -1,6 +1,6 @@
 {
   "name": "express-parameters",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Express Input Validation",
   "main": "Input.js",
   "scripts": {
@@ -13,16 +13,8 @@
   "keywords": [
     "express",
     "validator",
-    "express",
     "input",
-    "validator",
-    "express",
     "api",
-    "validator",
-    "express",
-    "parameters",
-    "validator",
-    "parameters",
     "collect"
   ],
   "author": "Jeton Kadrija",
